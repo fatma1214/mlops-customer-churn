@@ -1,0 +1,14 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.2.0, pluggy-1.7.0 -- /home/fatma/ml_project/venv/bin/python
+cachedir: .pytest_cache
+rootdir: /home/fatma/ml_project
+plugins: anyio-4.16.0, platformdirs-4.14.5
+collecting ... collected 2 items
+
+tests/test_pipeline.py::test_train_model PASSED                          [ 50%]
+tests/test_pipeline.py::test_evaluate_model PASSED                       [100%]
+
+============================== 2 passed in 2.16s ===============================
+
+
+Execution successful.

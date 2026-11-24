@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Modèles générés
+classifier.joblib
+test_classifier.joblib
+
+# Résultats temporaires
+.pytest_cache/
+.mypy_cache/
+
+# Configuration locale
+.env
